@@ -20,5 +20,10 @@ print(course + course)
 print("hey" * 2)
 print(("hey " * 2) + "hey!")
 
+print('text to display')
+print('on different lines')
+
+print('text to display', end=' ')
+print('on the same line')
 # see also:
 # string_methods

@@ -4,8 +4,8 @@
 
 # Valid variable names can contain only letters, numbers, and underscores
 apple = 5
-var12 = "Name"
-output_3 = var12
+user_input12 = "Name"
+output_3 = user_input12
 
 # Avoid Python keyword and function names, like...
 # 

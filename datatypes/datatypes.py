@@ -22,7 +22,7 @@ empty = []
 ints = [1, 2, 3]
 mixed = ['my', "hi there", 3.4]
 list_with_list = ['oh', mixed]
-the_list = ['a','b','c','d','e']
+the_list = ['a', 'b', 'c', 'd', 'e']
 
 # Indexing
 print(the_list[0]) # prints a
@@ -50,11 +50,11 @@ print(the_list)
 
 # Extending
 # multiple elements at once
-the_list.extend(['g','h','i'])
+the_list.extend(['g', 'h', 'i'])
 print(the_list)
 
 # Adding list together
-just_kidding = ['j','k']
+just_kidding = ['j', 'k']
 print(the_list + just_kidding)
 
 # Multiplying elements in a list
@@ -72,11 +72,11 @@ print(counter)
 counter[2:2] = [0b10, 0b11]
 print(counter)
 
-#del
-#remove
-#pop
-#clear
-#index
-#sort
-#reverse
-#copy
+# del
+# remove
+# pop
+# clear
+# index
+# sort
+# reverse
+# copy
